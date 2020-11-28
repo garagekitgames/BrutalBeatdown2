@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -26,12 +27,12 @@ MonoBehaviour:
   - LocalisablePrefabType: 2
     Name: 
     LocalisablePrefab:
-      _default: {fileID: 106596, guid: 6a9df550b6f94a343befdeb33ec876e4, type: 2}
+      _default: {fileID: 0}
       _localisedObjects: []
   - LocalisablePrefabType: 4
     Name: 
     LocalisablePrefab:
-      _default: {fileID: 106596, guid: 6a9df550b6f94a343befdeb33ec876e4, type: 2}
+      _default: {fileID: 0}
       _localisedObjects: []
   _localisableSprites:
   - LocalisableSpriteType: 1

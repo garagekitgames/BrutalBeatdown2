@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -26,12 +27,12 @@ MonoBehaviour:
   - LocalisablePrefabType: 4
     Name: 
     LocalisablePrefab:
-      _default: {fileID: 147432, guid: 11be7ac4140cfa744b63b4ac7758df61, type: 2}
+      _default: {fileID: 147432, guid: 11be7ac4140cfa744b63b4ac7758df61, type: 3}
       _localisedObjects: []
   - LocalisablePrefabType: 2
     Name: 
     LocalisablePrefab:
-      _default: {fileID: 147432, guid: 11be7ac4140cfa744b63b4ac7758df61, type: 2}
+      _default: {fileID: 147432, guid: 11be7ac4140cfa744b63b4ac7758df61, type: 3}
       _localisedObjects: []
   _localisableSprites:
   - LocalisableSpriteType: 1
@@ -47,5 +48,36 @@ MonoBehaviour:
   _variables:
     _boolVariables: []
     _intVariables: []
-    _floatVariables: []
+    _floatVariables:
+    - _tag: Health
+      _name:
+        _isLocalised: 0
+        _data: 
+      _category: 
+      _defaultValue: 10
+      _persistChanges: 1
+    - _tag: AttackPower
+      _name:
+        _isLocalised: 0
+        _data: 
+      _category: 
+      _defaultValue: 10
+      _persistChanges: 1
+    - _tag: Agiliity
+      _name:
+        _isLocalised: 0
+        _data: 
+      _category: 
+      _defaultValue: 10
+      _persistChanges: 1
+    - _tag: Stamina
+      _name:
+        _isLocalised: 0
+        _data: 
+      _category: 
+      _defaultValue: 10
+      _persistChanges: 1
     _stringVariables: []
+    _Vector2Variables: []
+    _Vector3Variables: []
+    _colorVariables: []
