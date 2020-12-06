@@ -5,16 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/FlipWebApps/GameFramework/_Demo/GameStructure/GameStructure-Title.unity
     guid: e29392986523afa43b88db2c65e5cbc0
-  - enabled: 1
+  - enabled: 0
     path: Assets/FlipWebApps/GameFramework/_Demo/GameStructure/GameStructure-Menu.unity
     guid: ebe78b1962fed5546ac068382eb9b1e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/FlipWebApps/GameFramework/_Demo/GameStructure/GameStructure-Game.unity
     guid: ffbc07dfeb5588b4b9b3ad80651c453e
-  - enabled: 1
+  - enabled: 0
     path: Assets/FlipWebApps/GameFramework/_Demo/GameStructure/GameStructure-Character.unity
     guid: 7464fe084ae1f404a9213b9122c8680a
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 200ebacee8a978c449eef84b5858fbd3
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 95784b313316a3d4483fc7390200b94b
   m_configObjects: {}
